@@ -1,10 +1,10 @@
 # 2026-Study-Archive
 웹 개발 및 네트워크 보안 기초 학습 기록
   
-##📁 Repository Structure
+## 📁 Repository Structure
   
   
-###💻 Programming
+### 💻 Programming
   
 [ ] /Python-basics: 혼자 공부하는 파이썬
   
@@ -13,21 +13,21 @@
 [ ] /C-basics: 혼자 공부하는 C언어 
   
   
-###💻CS
+### 💻CS
   
 [ ] /Computer-Architecture-basics: 혼자 공부하는 컴퓨터구조+운영체제
   
 [ ] /Operating-System-basics: 혼자 공부하는 컴퓨터구조+운영체제
   
   
-###🐧 Network & Linux
+### 🐧 Network & Linux
   
 [ ] /Network-basics: 혼자 공부하는 네트워크
   
 [ ] /Linux-basics: doit 리눅스 입문, 이것이 우분투 리눅스다
   
   
-###🌐 Web Development
+### 🌐 Web Development
   
 [ ] /JavaScript-basics: 혼자 공부하는 자바스크립트
   
@@ -36,7 +36,7 @@
 [ ] /SQL-basics: 혼자 공부하는 SQL
   
   
-###🛡️ Security
+### 🛡️ Security
   
 [ ] /Web-Hacking-basics: 누구나 쉽게 따라하며 배우는 웹 해킹 첫걸음
   
